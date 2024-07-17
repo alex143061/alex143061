@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/Alex/Downloads/download.gif)
+[![MasterHead]([https://dffs221.blogspot.com/2024/07/blog-post.html])
 
 <h1 align="center">Hi 👋, I'm Alexander Maiso</h1>
 <h3 align="center">A Passionate Programmer from Philippines</h3>
