@@ -1,4 +1,4 @@
-[![MasterHead](https://dffs221.blogspot.com/2024/07/blog-post.html)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <h1 align="center">Hi 👋, I'm Alexander Maiso</h1>
 <h3 align="center">A Passionate Programmer from Philippines</h3>
