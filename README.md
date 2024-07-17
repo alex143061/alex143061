@@ -1,4 +1,4 @@
-[![MasterHead]([https://dffs221.blogspot.com/2024/07/blog-post.html])
+[![MasterHead]([(https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)])
 
 <h1 align="center">Hi 👋, I'm Alexander Maiso</h1>
 <h3 align="center">A Passionate Programmer from Philippines</h3>
