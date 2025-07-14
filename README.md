@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamalex84766006" target="blank"><img src="https://img.shields.io/twitter/follow/iamalex84766006?logo=twitter&style=for-the-badge" alt="iamalex84766006" /></a> </p>
 
-- 🌱 I’m currently learning **CSS Frameworks, JS Frameworks**
+- 🌱 I’m currently learning **Machine Learning & Computer Vision Technologies**
 
-- 💬 Ask me about **C++, Java Application, Python, React.js etc.**
+- 💬 Ask me about **Wordpress, C++, Java Application, Python, VB.net, React.js etc.**
 
 - 📫 How to reach me **alexandermaiso99@gmail.com**
 
